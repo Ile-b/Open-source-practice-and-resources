@@ -145,7 +145,7 @@ To add resources or to contribute read the [Contribution-guide](https://github.c
 - :file_folder: [Learn Python](https://www.learnpython.org/)
 - :file_folder: [Free Python Course](https://free-courses.lighthouselabs.ca/courses/programming-essentials-with-python)
 - :file_folder: [100 Days of Hell with Python Algo Trading?](https://youtube.com/playlist?list=PLUTKklmYVO37Ik8K1Ftdp4ULk3dMBCKYp&si=5Z-9wA6h18MDeQPz)
-
+- 📹: [Python Full Course for Beginners](https://www.youtube.com/watch?v=_uQrJ0TkZlc&t=684s)
 ### Django
 
 - :file_folder: [Django Official Documentation](https://docs.djangoproject.com/en/4.1/)
